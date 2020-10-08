@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2020-10-08T15:27:04.342Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="gTd72UDHB3_sye-KPoOS" version="13.7.8" type="github">
+  <diagram id="ev5j7h65LCNtTHUr_suM" name="Page-1">
+    <mxGraphModel dx="868" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OKICDpfeGgW19Uzqy9jh-1" value="Insegnante&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OKICDpfeGgW19Uzqy9jh-4" value="Operatore" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OKICDpfeGgW19Uzqy9jh-5" value="Amministratore&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OKICDpfeGgW19Uzqy9jh-9" value="Lista classi&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OKICDpfeGgW19Uzqy9jh-10" value="Scelta sessione" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="210" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OKICDpfeGgW19Uzqy9jh-11" value="Mostra classe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OKICDpfeGgW19Uzqy9jh-12" value="Aggiunge lezione" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="500" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OKICDpfeGgW19Uzqy9jh-13" value="Aggiunge presenze" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="380" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OKICDpfeGgW19Uzqy9jh-14" value="Modifica presenze" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OKICDpfeGgW19Uzqy9jh-15" value="Modifica lezione" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OKICDpfeGgW19Uzqy9jh-16" value="Elimina lezione" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="570" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
