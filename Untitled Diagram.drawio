@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T11:50:09.052Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="onnafHnKL5MDiOjHP5kl" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T11:56:14.240Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="qd72UBKJNEfXVjhUvAT_" version="13.9.7" type="github">
   <diagram id="ev5j7h65LCNtTHUr_suM" name="Page-1">
     <mxGraphModel dx="868" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,15 @@
         </mxCell>
         <mxCell id="lJTx1EEEYlakHBWHTsgF-10" value="SSH tunnel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="391" y="70" width="106" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lJTx1EEEYlakHBWHTsgF-11" value="vagrant VM" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lJTx1EEEYlakHBWHTsgF-12" value="" style="endArrow=none;html=1;entryX=0.558;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.433;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lJTx1EEEYlakHBWHTsgF-11" target="lJTx1EEEYlakHBWHTsgF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="290" as="sourcePoint" />
+            <mxPoint x="460" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
