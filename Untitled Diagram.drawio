@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T11:44:52.972Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="1TqhQs_Y4mTT6rLimixI" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-13T11:50:09.052Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="onnafHnKL5MDiOjHP5kl" version="13.9.7" type="github">
   <diagram id="ev5j7h65LCNtTHUr_suM" name="Page-1">
     <mxGraphModel dx="868" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="lJTx1EEEYlakHBWHTsgF-1" value="lcst-phptest-01" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lJTx1EEEYlakHBWHTsgF-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="250" y="320" width="60" height="80" as="geometry" />
@@ -18,6 +18,27 @@
             <mxPoint x="410" y="280" as="sourcePoint" />
             <mxPoint x="283" y="193" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lJTx1EEEYlakHBWHTsgF-6" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="300" as="sourcePoint" />
+            <mxPoint x="320" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lJTx1EEEYlakHBWHTsgF-7" value="tesla" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lJTx1EEEYlakHBWHTsgF-8" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="414" y="120" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lJTx1EEEYlakHBWHTsgF-9" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lJTx1EEEYlakHBWHTsgF-1" target="lJTx1EEEYlakHBWHTsgF-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="280" as="sourcePoint" />
+            <mxPoint x="460" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lJTx1EEEYlakHBWHTsgF-10" value="SSH tunnel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="70" width="106" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
